@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-sock
+pandas
+numpy
+requests
+feedparser
+bytez
+yfinance
+gunicorn
+gevent
+pandas-ta
